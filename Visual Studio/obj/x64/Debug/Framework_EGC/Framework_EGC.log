@@ -1,0 +1,64 @@
+﻿  CameraInput.cpp
+  SceneInput.cpp
+  SimpleScene.cpp
+  Engine.cpp
+  GPUBuffers.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture2D.cpp
+  TextureManager.cpp
+  InputController.cpp
+  WindowCallbacks.cpp
+  WindowObject.cpp
+  World.cpp
+  Arrow.cpp
+  Baloon.cpp
+  GameplayLoops.cpp
+  Huds.cpp
+  Initializations.cpp
+  ObjectLogic.cpp
+  RenderObjects.cpp
+  Shuriken.cpp
+  Tema1.cpp
+  TemaObject2D.cpp
+  TextRenderer.cpp
+  gl.cpp
+  Main.cpp
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\GameplayLoops.cpp(27,38): warning C4305: '-=': truncation from 'double' to 'float'
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\GameplayLoops.cpp(70,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Initializations.cpp(21,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Initializations.cpp(27,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(4,96): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(4,79): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(5,84): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(5,71): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(6,68): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(6,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(21,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(21,44): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(30,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(31,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(32,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(33,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(34,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(35,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(36,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(37,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(38,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(39,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(40,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\Huds.cpp(41,65): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\Laboratoare\Tema1\TemaObject2D.cpp(135,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudiosRepos\Tema1\Source\TextRenderer\TextRenderer.cpp(104,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Framework_EGC.vcxproj -> D:\VisualStudiosRepos\Tema1\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\x64\Debug already exists.
+  D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\libs\GL\x64\Release\glew32.dll
+  1 File(s) copied
+  D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\libs\freetype\x64\freetype.dll
+  1 File(s) copied
+  D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\libs\GLFW\x64\Debug\glfw3.dll
+  1 File(s) copied
+  D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\libs\assimp\x64\Debug\assimpd.dll
+  1 File(s) copied
+  D:\VisualStudiosRepos\Tema1\Visual Studio\scripts\..\..\libs\Engine\x64\Debug\Components.dll
+  1 File(s) copied
